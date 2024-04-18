@@ -2,7 +2,7 @@
 
 ![Github Actions Status](https://github.com/plasmabio/tljh-repo2docker/workflows/Tests/badge.svg)
 
-TLJH plugin providing a JupyterHub service to build and use Docker images as user environments. The Docker images are built using [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/).
+TLJH plugin providing a JupyterHub service to build and use Docker images as user environments. The Docker images are built using [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/)
 
 ## Requirements
 
